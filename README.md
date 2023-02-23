@@ -1,1 +1,1 @@
-# landing-page-courseJS
+# landing-page-html
