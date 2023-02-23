@@ -23,3 +23,12 @@
 .menu-spacing {
     height: 4.5rem;
 }
+
+body .full-width {
+    width: 100%;
+    flex: 1 1 100%;
+}
+
+.heart {
+    color: var(--secondary-color);
+}
